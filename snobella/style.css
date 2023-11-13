@@ -465,6 +465,15 @@ a {
     gap: 10px;
     margin: 40px 0;
   }
+  .right-2 a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .right-2 h3 {
+    text-align: center;
+  }
   .icons {
     flex-direction: column;
   }
